@@ -1,0 +1,4 @@
+Help
+Welcome to Planet. This is a simple physics program simulating interplanetary gravitational interaction in a zero friction environment I.E. Space. Planned features include planetary destruction through collisions and atmosphere on certain Planets.
+Controls
+Right click to generate a ball. Scroll whilst hovering over or holding onto a Planet to increase or decrease the size/mass of it. Left click to move a Planet around the screen. Scroll wheel click on a Planet to pin it in place. Hover over a Planets to see more information about it. Press W to activate wrapping mode for some really weird results!

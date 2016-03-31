@@ -1,2 +1,2 @@
 # planet
-Processing Planet Simulator
+Simple Processing planet simulator created early in my programming days - ~2013
